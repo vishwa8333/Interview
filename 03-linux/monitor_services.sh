@@ -1,5 +1,5 @@
 #!/bin/bash
-
+### This is a comment####
 # List of services to monitor
 services=("nginx" "sshd" "docker")
 

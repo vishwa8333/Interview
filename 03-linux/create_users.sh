@@ -1,4 +1,5 @@
 #!/bin/bash
+#This is a comment
 
 FILE="users.csv"
 

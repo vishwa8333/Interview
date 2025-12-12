@@ -1,5 +1,5 @@
 # Question  
-What is the difference between `git fork` and `git clone`, and when would you use each?
+What is the difference between `git fork` and `git clone`, and whe n would you use each?
 
 ### 📝 Short Explanation  
 This question is often asked to check if you understand collaboration workflows in Git — especially how open-source and team projects. Many developers confuse `fork` and `clone`, so it helps to clarify the purpose and use cases of both.

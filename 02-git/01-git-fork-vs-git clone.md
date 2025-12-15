@@ -23,6 +23,6 @@ Here’s how you’d typically use both:
    git clone https://github.com/your-username/the-repo.git
    ```
 
-> So: **Fork = GitHub-level action**, **Clone = Local machine-level action**.
+> So: **Fork = GitHub-level action**,, **Clone = Local machine-level action**.
 
 

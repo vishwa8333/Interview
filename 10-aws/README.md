@@ -1,1 +1,1 @@
-We are actively working on updating the notes for this section.
+Hi Abhishek kindly update this repo .

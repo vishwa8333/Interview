@@ -4,5 +4,4 @@
  understanding fetch and git pull conflict
 
  more practice
- git fork action
-
+ git clone and fork example

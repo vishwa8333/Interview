@@ -2,6 +2,7 @@
  practice git fetch and pull
 
  understanding fetch and git pull conflict
+ more practice 
 
- more practice
- git clone and fork example
+ git clone and fork 
+

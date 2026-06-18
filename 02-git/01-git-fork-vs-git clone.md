@@ -8,7 +8,7 @@ This question is often asked to check if you understand collaboration workflows 
 - **`git fork`** creates a **copy of a repository on your GitHub (or GitLab, etc.) account**, letting you propose changes without write access to the original repo.
 - **`git clone`** creates a **local copy of any Git repository** (your own or someone else’s) on your machine for development.
 
-### 📘 Detailed Explanation  
+### 📘 Detailed Explanation   
 When you **fork** a repository on GitHub, you're telling the platform:  
 > "I want a separate version of this repository in my own GitHub account."
 

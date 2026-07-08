@@ -1,5 +1,4 @@
 # devops-cloud-interview-guide
 #
-Repository for my udemy course - DevOps and Cloud Interview Guide 
-#
+Repository for my udemy course - DevOps and Cloud Interview Guide
 

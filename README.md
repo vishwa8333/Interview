@@ -1,2 +1,3 @@
 # devops-cloud-interview-guide
-Repository for my udemy course - DevOps and Cloud Interview Guide for Adhi
+#
+Repository for my udemy course - DevOps and Cloud Interview Guide for 

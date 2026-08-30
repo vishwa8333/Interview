@@ -18,7 +18,7 @@ On the other hand, **`git clone`** is used to **download a repository (forked or
 
 Here’s how you’d typically use both:
 1. **Fork** the repo on GitHub (creates a copy under your GitHub username).
-2. **Clone** your fork locally using:  
+2. **Clone** your fork locally using:-
    ```bash
    git clone https://github.com/your-username/the-repo.git
    ```

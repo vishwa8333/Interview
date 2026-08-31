@@ -14,13 +14,17 @@ $git add .  ## this will update the changes
 
 $git commit -am "chore: updated description" ## This is committing a changes with description
 
-$git push origin
+$ git push origin
+# Pushes your committed changes to the remote repository.
+# If the branch isn't specified, Git may ask you to set the upstream branch.
 
-$git remote -v
+$ git remote -v
+# Shows the remote repositories connected to your local repository.
+# "origin" normally points to the GitHub repository you cloned from.
 
-$git push origin update description
-
-$
+$ git push origin updateDescription
+# Pushes the "updateDescription" branch to the "origin" remote repository.
+# This publishes your local branch and its commits to GitHub.
 
 
 

@@ -20,7 +20,10 @@ $ git pull origin updateDescription
 # In simple terms: git pull = git fetch + git merge
 
 
-
+$ git rebase <branch-name>
+# Reapplies your current branch's commits on top of the latest commit
+# from the specified branch, creating a clean and linear commit history.
+# Example: git rebase main
 
 
 

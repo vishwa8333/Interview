@@ -19,6 +19,15 @@ This makes my routine faster and keeps my local branch synchronized with the rem
 - I'm contributing to a feature branch that others aren’t modifying
 - I want to frequently pull in the latest changes to test or deploy updates
 
+$ git merge <commit-ID>
+- Merges the history/changes up to that commit into the current branch.
+- If the commit is 3-4 commits ahead, the changes from those commits
+- can be brought into the current branch.
+
+$ git cherry-pick <commit-ID>
+- Takes only the changes introduced by that specific commit
+- and creates a new commit on the current branch.
+
 Of course, I stay cautious by committing or stashing local changes before pulling to avoid conflicts or interrupted workflows. And if I suspect major upstream changes or want a closer look, I’ll temporarily switch to `git fetch`.
 
 But for my day-to-day development, especially in active branches, `git pull` keeps things fast and simple — and that makes it my go-to.
